@@ -14,8 +14,3 @@ excerpt: >-
 date: 2020-03-05T16:18:23.054Z
 template: page
 ---
-<!--StartFragment-->
-
-<https://www.patreon.com/austindiemusic>
-
-<!--EndFragment-->
