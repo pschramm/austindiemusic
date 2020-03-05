@@ -1,5 +1,5 @@
 ---
-title: Tempus
+title: Spotify Playist
 home_style: style4
 home_img: images/pic04.jpg
 excerpt: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
