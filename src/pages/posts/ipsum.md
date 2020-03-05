@@ -1,9 +1,17 @@
 ---
-title: Ipsum
+title: Patreon
 home_style: style2
 home_img: images/pic07.jpg
-excerpt: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
-date: '2017-04-06'
+excerpt: >-
+  *Do you love live local music? Do you love set times?? I do too!\
+
+  That's why I started Austindie Music about a year ago, to get the good stuff
+  out and leave all the hoo ha at the door. We all know there is ALOT of live
+  music in Austin and what comes with that is alot of noise so i'm here to try
+  and clarify/ simplify it all on a platform you're already using! This page is
+  for the people, the show goers, the listeners and ultimately for the artist in
+  hopes that you all can navigate the scene more easily. -Sheebie*
+date: 2020-03-03T06:00:00.000Z
 img_src: images/pic13.jpg
 template: page
 ---
