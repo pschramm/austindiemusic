@@ -1,7 +1,7 @@
 ---
 title: Patreon
 home_style: style1
-home_img: /images/pic06.jpg
+home_img: /images/capture.png
 excerpt: >-
   *Do you love live local music? Do you love set times?? I do too!\
 
